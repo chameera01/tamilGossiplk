@@ -1,0 +1,3 @@
+# tamilGossiplk
+a gossip site for tamil community...
+all rights reserved..:P
